@@ -152,7 +152,7 @@ table td { border: 1px solid #e8e8e8; }
 @media screen and (max-width: 800px) { .post-content h4 { font-size: 18px; } }
 
 /** Syntax highlighting styles */
-.highlight { background: #000000; }
+.highlight { background: #fff; }
 
 .highlighter-rouge .highlight { background: #eef; }
 
