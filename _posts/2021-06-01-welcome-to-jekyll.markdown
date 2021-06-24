@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: Posts
 title:  "Welcome to SkyMartinezyMejia!"
 date:   2021-06-01 22:12:45 -0600
 categories: jekyll update
